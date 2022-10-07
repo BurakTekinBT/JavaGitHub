@@ -1,6 +1,6 @@
 package javaRecapDemo;
 
-public class enBuyuk {
+public class BigNumber {
 
 	public static void main(String[] args) {
 		
@@ -25,6 +25,7 @@ public class enBuyuk {
 		else {
 			System.out.println("Sayilar eşittir");
 		}
+		
 		
 
 	}
